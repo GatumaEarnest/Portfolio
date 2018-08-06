@@ -23,4 +23,14 @@
 
 .Links{background-color: rgb(250,235,215);
 
-        }
+      }
+        .AboutMe{background-image: url(AFRO.jpg);
+
+                 }
+        .Bio{color: rgb(205,92,92);
+          font-weight: lighter;
+
+            }
+        .boldlink{font-weight: bold;
+
+                  }
