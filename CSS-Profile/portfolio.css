@@ -29,6 +29,9 @@
                  }
         .Bio{color: rgb(205,92,92);
           font-weight: lighter;
+          text-shadow: 1px 2px 2px #F0FFFF;
+          border: rgb(175,0,42);
+          background-color: rgb(0,48,143);
 
             }
         .boldlink{font-weight: bold;
